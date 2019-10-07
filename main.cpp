@@ -1,5 +1,7 @@
 #include "sdt.h"
 
+//Это учебная программа
+
 int main()
 {
 	int a,d;
